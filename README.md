@@ -19,3 +19,13 @@ INFORMASI : merupakan domain dari project Laravel-Travel
 E. Membuat component login secara global
 -
 ![image](https://github.com/user-attachments/assets/85c71b84-4f10-4c26-b51c-ec684e9b0110)
+
+F. Validasi halaman login
+-
+1. jika data tidak diisi
+   ![image](https://github.com/user-attachments/assets/5c48bec8-968e-4320-9797-39d7eaba31f2)
+   
+2. jika data salah
+   ![image](https://github.com/user-attachments/assets/e062c71f-31d6-4931-86ea-3959e14ff858)
+
+
