@@ -18,10 +18,13 @@ import Dashboard from '../pages/admin/dashboard/Index.jsx';
 import CategoriesIndex from '../pages/admin/categories/Index.jsx';
 
 //import view admin category Create
-import CategoryCreate from '../pages/admin/categories/create.jsx';
+import CategoryCreate from '../pages/admin/categories/Create.jsx';
 
 //import view admin category Edit
-import CategoryEdit from '../pages/admin/categories/edit.jsx';
+import CategoryEdit from '../pages/admin/categories/Edit.jsx';
+
+//import view admin places Index
+import PlacesIndex from '../pages/admin/places/index.jsx';
 
 function RoutesIndex() {
     return (
@@ -66,6 +69,16 @@ function RoutesIndex() {
                 element={
                         <PrivateRoute>
                             <CategoryEdit />
+                        </PrivateRoute>
+                }
+            />
+
+            {/* private route "/admin/places" */}
+            <Route
+                path="/admin/places"
+                element={
+                        <PrivateRoute>
+                            <PlacesIndex />
                         </PrivateRoute>
                 }
             />
