@@ -73,10 +73,11 @@ I. Menampilkan Data Places
 5. halaman add new place
    ![image](https://github.com/user-attachments/assets/d1cf729e-0d64-4a21-a653-ce7dab886d9a)
 
+6. uji coba proses insert data places
+   ![image](https://github.com/user-attachments/assets/4fa413a0-7f8e-4fde-b6fa-d3d46bcf010c)
 
-
-
-
+7. data places berhasil ditambahkan
+   ![image](https://github.com/user-attachments/assets/69c65a9c-ad76-4ceb-9fc6-73a48b4c7fa2)
 
 
 
