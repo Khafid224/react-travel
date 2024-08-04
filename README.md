@@ -28,4 +28,9 @@ F. Validasi halaman login
 2. jika data salah
    ![image](https://github.com/user-attachments/assets/e062c71f-31d6-4931-86ea-3959e14ff858)
 
+G. Halaman dashboard
+-
+![image](https://github.com/user-attachments/assets/fb6bf2ed-36fc-459f-acc4-eb3ec2c741ec)
+
+
 
