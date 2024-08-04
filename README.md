@@ -70,6 +70,10 @@ I. Menampilkan Data Places
 4. jika data dihapus
    ![image](https://github.com/user-attachments/assets/e295a89c-390f-4397-a7fc-06805a82471d)
 
+5. halaman add new place
+   ![image](https://github.com/user-attachments/assets/d1cf729e-0d64-4a21-a653-ce7dab886d9a)
+
+
 
 
 
