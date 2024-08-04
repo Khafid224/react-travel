@@ -53,6 +53,10 @@ H. Menampilkan data categories
 5. data berhasil ditambahkan
    ![image](https://github.com/user-attachments/assets/e5a3bfe0-6b8d-4798-a873-5c33cee7d5cb)
 
+6. data berhasil diupdate
+   ![image](https://github.com/user-attachments/assets/1b78137c-0b47-44cd-bfb8-9115d7863889)
+
+
 
 
 
