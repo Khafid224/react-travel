@@ -38,8 +38,11 @@ G. Halaman dashboard
 
 H. Menampilkan data categories
 -
-1. ![image](https://github.com/user-attachments/assets/ddf05cf3-69b1-4098-90b5-c9180b9e834a)
-2. ![image](https://github.com/user-attachments/assets/07782f7a-6c2c-4d6d-9132-b6a36c96deb8)
+1. membuat pencarian, pagination dan proses hapus data
+   ![image](https://github.com/user-attachments/assets/ddf05cf3-69b1-4098-90b5-c9180b9e834a)
+   
+2. jika data dihapus
+   ![image](https://github.com/user-attachments/assets/07782f7a-6c2c-4d6d-9132-b6a36c96deb8)
 
 
 
