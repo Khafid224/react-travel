@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom";
 //=======================================================================
 
 //import view Login
-import Login from '../pages/admin/Login.jsx';
+import Login from '../pages/admin/login.jsx';
 
 function RoutesIndex() {
     return (
