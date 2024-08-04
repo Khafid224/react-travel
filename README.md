@@ -56,6 +56,10 @@ H. Menampilkan data categories
 6. data berhasil diupdate
    ![image](https://github.com/user-attachments/assets/1b78137c-0b47-44cd-bfb8-9115d7863889)
 
+I. Menampilkan Data Places
+-
+1. halaman place
+   ![image](https://github.com/user-attachments/assets/8da35647-5a3b-495b-b514-bc551cde679c)
 
 
 
