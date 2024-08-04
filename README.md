@@ -36,6 +36,21 @@ G. Halaman dashboard
 2. menampilkan 4 statistik data
    ![image](https://github.com/user-attachments/assets/cfd3244d-9007-47dc-9dfc-aa7b113374ad)
 
+H. Menampilkan data categories
+-
+1. ![image](https://github.com/user-attachments/assets/85696690-0a71-4b09-85bc-0dbba05c1721)
+   
+2. membuat fitur pencarian & pagination
+   ![image](https://github.com/user-attachments/assets/c8c9681b-8dd6-4435-8a64-d11ee7a29f38)
+
+3. membuat proses hapus data
+   ![image](https://github.com/user-attachments/assets/80fdfc94-1870-445f-921a-8c81a5a671c8)
+   
+   jika di konfirmasi maka akan tampil :
+   ![image](https://github.com/user-attachments/assets/1604c06e-fbe7-4d3e-8c36-277301428eb3)
+
+
+
 
 
 
