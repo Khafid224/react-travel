@@ -30,7 +30,12 @@ F. Validasi halaman login
 
 G. Halaman dashboard
 -
-![image](https://github.com/user-attachments/assets/fb6bf2ed-36fc-459f-acc4-eb3ec2c741ec)
+1. welcome admin
+   ![image](https://github.com/user-attachments/assets/fb6bf2ed-36fc-459f-acc4-eb3ec2c741ec)
+
+2. menampilkan 4 statistik data
+   ![image](https://github.com/user-attachments/assets/cfd3244d-9007-47dc-9dfc-aa7b113374ad)
+
 
 
 
