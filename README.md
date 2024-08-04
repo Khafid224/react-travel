@@ -44,8 +44,14 @@ H. Menampilkan data categories
 2. jika data dihapus
    ![image](https://github.com/user-attachments/assets/07782f7a-6c2c-4d6d-9132-b6a36c96deb8)
 
+3. tambah data categories
+   ![image](https://github.com/user-attachments/assets/0f880afc-1a15-419c-a120-c5566b1d8265)
 
+4. valiasi data jika tidak diisi
+   ![image](https://github.com/user-attachments/assets/80da1355-8128-4fb3-bce2-e56ce9f4aa8a)
 
+5. data berhasil ditambahkan
+   ![image](https://github.com/user-attachments/assets/e5a3bfe0-6b8d-4798-a873-5c33cee7d5cb)
 
 
 
