@@ -61,6 +61,17 @@ I. Menampilkan Data Places
 1. halaman place
    ![image](https://github.com/user-attachments/assets/8da35647-5a3b-495b-b514-bc551cde679c)
 
+2. menampilkan data pencarian dan pagination place
+   ![image](https://github.com/user-attachments/assets/034a5eb3-7ddc-4a16-b766-23067a217d65)
+
+3. membuat proses hapus data place
+   ![image](https://github.com/user-attachments/assets/1c371bfb-5755-474d-950e-876579792dfe)
+
+4. jika data dihapus
+   ![image](https://github.com/user-attachments/assets/e295a89c-390f-4397-a7fc-06805a82471d)
+
+
+
 
 
 
