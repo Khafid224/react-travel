@@ -134,6 +134,12 @@ J. Menampilkan data users
 8. edit & update data users
 ![image](https://github.com/user-attachments/assets/954235fe-c42e-47c3-b53c-b4db40e99cb8)
 
+K. Halaman web 
+-
+1 menampilkan home
+![image](https://github.com/user-attachments/assets/20cb65b7-f61e-4c7f-bcb0-e0a1e5aec9d4)
+
+
 
 
 
