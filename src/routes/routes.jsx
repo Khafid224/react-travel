@@ -44,6 +44,9 @@ import UsersIndex from '../pages/admin/users/index.jsx';
 //import view admin user Create
 import UserCreate from '../pages/admin/users/create.jsx';
 
+//import view admin user Edit
+import UserEdit from '../pages/admin/users/edit.jsx';
+
 function RoutesIndex() {
     return (
         <Routes>
@@ -157,6 +160,16 @@ function RoutesIndex() {
                 element={
                         <PrivateRoute>
                             <UserCreate />
+                        </PrivateRoute>
+                }
+            />
+
+            {/* private route "/admin/users/edit/:id" */}
+            <Route
+                path="/admin/users/edit/:id"
+                element={
+                        <PrivateRoute>
+                            <UserEdit />
                         </PrivateRoute>
                 }
             />
