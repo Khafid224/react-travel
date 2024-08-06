@@ -38,6 +38,9 @@ import SlidersIndex from '../pages/admin/sliders/index.jsx';
 //import view admin slider Create
 import SliderCreate from '../pages/admin/sliders/create.jsx';
 
+//import view admin users Index
+import UsersIndex from '../pages/admin/users/index.jsx';
+
 function RoutesIndex() {
     return (
         <Routes>
@@ -131,6 +134,16 @@ function RoutesIndex() {
                 element={
                         <PrivateRoute>
                             <SliderCreate />
+                        </PrivateRoute>
+                }
+            />
+
+            {/* private route "/admin/users" */}
+            <Route
+                path="/admin/users"
+                element={
+                        <PrivateRoute>
+                            <UsersIndex />
                         </PrivateRoute>
                 }
             />
