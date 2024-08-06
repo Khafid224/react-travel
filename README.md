@@ -168,6 +168,14 @@ M. Halaman Places
 1. menampilkan halaman konfigurasi place
 ![image](https://github.com/user-attachments/assets/a6d213a5-3f53-431e-8e0f-fdefd4af1f37)
 
+2. menampilkan pagination
+![image](https://github.com/user-attachments/assets/511d4391-fbdd-4fbd-994e-3caa472565f4)
+
+3. konfigurasi route untuk halaman detail places
+![image](https://github.com/user-attachments/assets/5422dc22-4816-4a36-9d14-c3da728242dc)
+
+
+
 
 
 
