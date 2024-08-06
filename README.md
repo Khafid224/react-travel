@@ -99,6 +99,18 @@ I. Menampilkan data Sliders
 4. react-allert
 ![image](https://github.com/user-attachments/assets/55b4aa73-2bff-4e0b-9034-df5adf08c04e)
 
+5. tambah data slider
+![image](https://github.com/user-attachments/assets/f9c06301-05ce-431e-ae04-029213a31932)
+
+6. validasi data jika tidak diisi
+![image](https://github.com/user-attachments/assets/f7159ffc-2608-4331-81c9-2e021901d6a2)
+
+7. view data slider
+![image](https://github.com/user-attachments/assets/2a2f25bc-2a94-482c-a29f-466ad3d8aafa)
+
+
+
+
 
 
 
