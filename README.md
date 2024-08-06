@@ -177,6 +177,9 @@ M. Halaman Places
 4. uji coba menampilkan detail places
 ![image](https://github.com/user-attachments/assets/06e541a2-25ca-46c2-9672-3efc78d851d4)
 
+5. menampilkan gambar slider di halaman detail places
+![image](https://github.com/user-attachments/assets/0b041010-f720-4995-9a9b-ece69b65d2d5)
+
 
 
 
