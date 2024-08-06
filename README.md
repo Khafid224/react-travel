@@ -174,6 +174,9 @@ M. Halaman Places
 3. konfigurasi route untuk halaman detail places
 ![image](https://github.com/user-attachments/assets/5422dc22-4816-4a36-9d14-c3da728242dc)
 
+4. uji coba menampilkan detail places
+![image](https://github.com/user-attachments/assets/06e541a2-25ca-46c2-9672-3efc78d851d4)
+
 
 
 
