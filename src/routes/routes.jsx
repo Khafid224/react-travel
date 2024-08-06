@@ -61,6 +61,9 @@ import WebCategoryShow from '../pages/web/category/show.jsx';
 //import view web place Index
 import WebPlacesIndex from '../pages/web/places/index.jsx';
 
+//import view web place Show
+import WebPlacesShow from '../pages/web/places/show.jsx';
+
 function RoutesIndex() {
     return (
         <Routes>
@@ -196,6 +199,9 @@ function RoutesIndex() {
 
             {/* route "/places" */}
             <Route path="/places" element={<WebPlacesIndex />} />
+
+            {/* route "/places/:slug" */}
+            <Route path="/places/:slug" element={<WebPlacesShow />} />
 
 
         </Routes>
