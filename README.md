@@ -151,6 +151,10 @@ K. Halaman web
 5. menampilkan user di navbar saat otentikasi admin di home
 ![image](https://github.com/user-attachments/assets/894d05ea-49a4-47a9-9e98-873077846692)
 
+6. menampilkan route category show
+![image](https://github.com/user-attachments/assets/446f717f-df27-407e-8005-d1b60053f795)
+
+
 
 
 
