@@ -171,6 +171,10 @@ M. Halaman Places
 2. menampilkan pagination
 ![image](https://github.com/user-attachments/assets/511d4391-fbdd-4fbd-994e-3caa472565f4)
 
+3. konfigurasi route untuk halaman detail places
+![image](https://github.com/user-attachments/assets/5422dc22-4816-4a36-9d14-c3da728242dc)
+
+
 
 
 
