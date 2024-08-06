@@ -183,6 +183,14 @@ M. Halaman Places
 6. Menampilkan Maps di Halaman Detail Data Palce
 ![image](https://github.com/user-attachments/assets/a877eb96-7d2b-4a2a-895d-b6c69df44af2)
 
+7. menambahkan button opeen direction
+![image](https://github.com/user-attachments/assets/fe5e899c-853b-40b3-a7ab-27656e57af26)
+
+8. menampilkan map direction
+![image](https://github.com/user-attachments/assets/b046a928-7141-40f6-afb7-06e7e11616bc)
+
+
+
 
 
 
