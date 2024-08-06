@@ -180,6 +180,10 @@ M. Halaman Places
 5. menampilkan gambar slider di halaman detail places
 ![image](https://github.com/user-attachments/assets/0b041010-f720-4995-9a9b-ece69b65d2d5)
 
+6. Menampilkan Maps di Halaman Detail Data Palce
+![image](https://github.com/user-attachments/assets/a877eb96-7d2b-4a2a-895d-b6c69df44af2)
+
+
 
 
 
