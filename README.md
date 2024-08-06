@@ -197,6 +197,22 @@ N. Halaman Maps
 2. uji coba menampilkan semua maps
 ![image](https://github.com/user-attachments/assets/40c94544-f8e1-4eb4-9236-3155fafceb7c)
 
+O. Halaman Search
+-
+1. konfigurasi route halaman search
+![image](https://github.com/user-attachments/assets/731696e8-7259-4cb1-b37a-e863ff83a822)
+
+2. membuat fitur search di halaman homepage
+![image](https://github.com/user-attachments/assets/60dbd1b0-c205-45e5-b5c0-a0822c49af0f)
+
+3. membuat fitur search di navbar
+![image](https://github.com/user-attachments/assets/2f71f4e0-d51b-467b-8d95-361fcf57bdab)
+
+4. uji coba fitur pencarian
+![image](https://github.com/user-attachments/assets/a41de2bc-7af6-4146-9916-85c9738bc4fe)
+
+
+
 
 
 
