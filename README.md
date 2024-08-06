@@ -85,6 +85,11 @@ I. Menampilkan Data Places
 9. menampilkan button edit & update places
     ![image](https://github.com/user-attachments/assets/94306135-961a-47ba-8cb4-d28228b38376)
 
+I. Menampilkan data Sliders
+-
+1. sliders-index
+   ![image](https://github.com/user-attachments/assets/3e878159-3b7f-4188-a1da-3a4ac14a52f4)
+
 
 
 
