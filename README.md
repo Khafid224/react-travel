@@ -88,7 +88,19 @@ I. Menampilkan Data Places
 I. Menampilkan data Sliders
 -
 1. sliders-index
-   ![image](https://github.com/user-attachments/assets/3e878159-3b7f-4188-a1da-3a4ac14a52f4)
+![image](https://github.com/user-attachments/assets/29a43928-5d28-4887-b16e-82c541b3eefb)
+
+2. menampilkan pagination
+![image](https://github.com/user-attachments/assets/e802724e-d192-4c1d-bc06-5f17d5bf0f64)
+
+3. menampilkan delete button
+![image](https://github.com/user-attachments/assets/916f8ce5-aa28-438b-98db-d0fd29e7fbff)
+
+4. react-allert
+![image](https://github.com/user-attachments/assets/55b4aa73-2bff-4e0b-9034-df5adf08c04e)
+
+
+
 
 
 
