@@ -125,6 +125,12 @@ J. Menampilkan data users
 5. react-alert delete
 ![image](https://github.com/user-attachments/assets/fc173300-1a2f-49ee-9796-2d406bebcc47)
 
+6. tambah data users
+![image](https://github.com/user-attachments/assets/91066d92-9f5f-4c6d-a2fe-9e9a6c52ec1d)
+
+7. vaidasi data users jika tidak diisi
+![image](https://github.com/user-attachments/assets/801985d8-b9e6-4859-8d57-799e55bb8a8d)
+
 
 
 
