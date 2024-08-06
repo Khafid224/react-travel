@@ -142,6 +142,14 @@ K. Halaman web
 2. menampilkan data category di navbar
 ![image](https://github.com/user-attachments/assets/61b44a0a-df44-4b1a-9ac9-11dae90defff)
 
+3. menampilkan data slider di home
+![image](https://github.com/user-attachments/assets/d1f7ab22-33fb-41f2-8fad-c2cdcdf7546f)
+
+4. menampilkan data category di home
+![image](https://github.com/user-attachments/assets/7592a5bc-2d3f-4e3a-96e9-38157db1621d)
+
+
+
 
 
 
