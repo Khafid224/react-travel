@@ -14,7 +14,7 @@ import Cookies from "js-cookie";
 import { Link } from "react-router-dom";
 
 //import pagination component
-import PaginationComponent from "../../../components/utilities/Pagination";
+import PaginationComponent from "../../../components/utilities/pagination";
 
 //import toats
 import toast from "react-hot-toast";
