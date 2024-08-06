@@ -131,6 +131,10 @@ J. Menampilkan data users
 7. vaidasi data users jika tidak diisi
 ![image](https://github.com/user-attachments/assets/801985d8-b9e6-4859-8d57-799e55bb8a8d)
 
+8. edit & update data users
+![image](https://github.com/user-attachments/assets/954235fe-c42e-47c3-b53c-b4db40e99cb8)
+
+
 
 
 
