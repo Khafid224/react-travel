@@ -139,6 +139,9 @@ K. Halaman web
 1 menampilkan home
 ![image](https://github.com/user-attachments/assets/20cb65b7-f61e-4c7f-bcb0-e0a1e5aec9d4)
 
+2. menampilkan data category di navbar
+![image](https://github.com/user-attachments/assets/61b44a0a-df44-4b1a-9ac9-11dae90defff)
+
 
 
 
