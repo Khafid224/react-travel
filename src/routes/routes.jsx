@@ -47,6 +47,9 @@ import UserCreate from '../pages/admin/users/create.jsx';
 //import view admin user Edit
 import UserEdit from '../pages/admin/users/edit.jsx';
 
+//import view web Home
+import Home from '../pages/web/home/index.jsx';
+
 function RoutesIndex() {
     return (
         <Routes>
@@ -173,6 +176,9 @@ function RoutesIndex() {
                         </PrivateRoute>
                 }
             />
+
+            {/* route "/" */}
+            <Route path="/" element={<Home />} />
 
         </Routes>
     )
