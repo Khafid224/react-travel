@@ -194,6 +194,10 @@ N. Halaman Maps
 1. konfigurasi route halaman maps
 ![image](https://github.com/user-attachments/assets/1f0c38ca-8a4a-4157-beaa-79220ba9248a)
 
+2. uji coba menampilkan semua maps
+![image](https://github.com/user-attachments/assets/40c94544-f8e1-4eb4-9236-3155fafceb7c)
+
+
 
 
 
