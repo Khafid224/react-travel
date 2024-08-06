@@ -47,8 +47,18 @@ import UserCreate from '../pages/admin/users/create.jsx';
 //import view admin user Edit
 import UserEdit from '../pages/admin/users/edit.jsx';
 
+
+//=======================================================================
+//WEB
+//=======================================================================
+
 //import view web Home
 import Home from '../pages/web/home/index.jsx';
+
+//import view web category Show
+import WebCategoryShow from '../pages/web/category/show.jsx';
+
+//import view web category Show
 
 function RoutesIndex() {
     return (
@@ -179,6 +189,9 @@ function RoutesIndex() {
 
             {/* route "/" */}
             <Route path="/" element={<Home />} />
+
+           {/* route "/category/:slug" */}
+           <Route path="/category/:slug" element={<WebCategoryShow />} />
 
         </Routes>
     )
