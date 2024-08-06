@@ -108,6 +108,22 @@ I. Menampilkan data Sliders
 7. view data slider
 ![image](https://github.com/user-attachments/assets/2a2f25bc-2a94-482c-a29f-466ad3d8aafa)
 
+J. Menampilkan data users
+-
+1. users-index
+![image](https://github.com/user-attachments/assets/443dfff9-e961-4af3-aabb-a91f17039845)
+
+2. membuat fitur pencarian
+![image](https://github.com/user-attachments/assets/11b2f246-414f-4de9-87e4-78381580a937)
+
+3. membuat pagination
+![image](https://github.com/user-attachments/assets/347cf6ee-194d-4944-9090-422df16a1e08)
+
+4. membuat proses hapus data
+![image](https://github.com/user-attachments/assets/bcaaba76-9390-4b08-aaf2-aad265fd17b6)
+
+5. react-alert delete
+![image](https://github.com/user-attachments/assets/fc173300-1a2f-49ee-9796-2d406bebcc47)
 
 
 
