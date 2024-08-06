@@ -6,28 +6,31 @@ import { Routes, Route } from "react-router-dom";
 //=======================================================================
 
 //import view Login
-import Login from '../pages/admin/Login.jsx';
+import Login from '../pages/admin/login.jsx';
 
 //import component private routes
 import PrivateRoute from "./PrivateRoutes";
 
 //import view admin Dashboard
-import Dashboard from '../pages/admin/dashboard/Index.jsx';
+import Dashboard from '../pages/admin/dashboard/index.jsx';
 
 //import view admin categories Index
-import CategoriesIndex from '../pages/admin/categories/Index.jsx';
+import CategoriesIndex from '../pages/admin/categories/index.jsx';
 
 //import view admin category Create
-import CategoryCreate from '../pages/admin/categories/Create.jsx';
+import CategoryCreate from '../pages/admin/categories/create.jsx';
 
 //import view admin category Edit
-import CategoryEdit from '../pages/admin/categories/Edit.jsx';
+import CategoryEdit from '../pages/admin/categories/edit.jsx';
 
 //import view admin places Index
-import PlacesIndex from '../pages/admin/places/Index.jsx';
+import PlacesIndex from '../pages/admin/places/index.jsx';
 
 //import view admin places Create
 import PlaceCreate from '../pages/admin/places/create.jsx';
+
+//import view admin places Edit
+import PlaceEdit from '../pages/admin/places/edit.jsx';
 
 function RoutesIndex() {
     return (
@@ -92,6 +95,16 @@ function RoutesIndex() {
                 element={
                         <PrivateRoute>
                             <PlaceCreate />
+                        </PrivateRoute>
+                }
+            />
+
+            {/* private route "/admin/places/edit/:id" */}
+            <Route
+                path="/admin/places/edit/:id"
+                element={
+                        <PrivateRoute>
+                            <PlaceEdit />
                         </PrivateRoute>
                 }
             />
