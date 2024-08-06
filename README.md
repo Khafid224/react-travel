@@ -154,6 +154,10 @@ K. Halaman web
 6. menampilkan route category show
 ![image](https://github.com/user-attachments/assets/446f717f-df27-407e-8005-d1b60053f795)
 
+7. uji coba menampilkan data place berdasarkan category
+![image](https://github.com/user-attachments/assets/612986f9-3027-4dd1-a69b-3044074b24d8)
+
+
 
 
 
