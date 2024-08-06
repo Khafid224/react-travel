@@ -32,6 +32,9 @@ import PlaceCreate from '../pages/admin/places/create.jsx';
 //import view admin places Edit
 import PlaceEdit from '../pages/admin/places/edit.jsx';
 
+//import view admin sliders Index
+import SlidersIndex from '../pages/admin/sliders/index.jsx';
+
 function RoutesIndex() {
     return (
         <Routes>
@@ -105,6 +108,16 @@ function RoutesIndex() {
                 element={
                         <PrivateRoute>
                             <PlaceEdit />
+                        </PrivateRoute>
+                }
+            />
+
+            {/* private route "/admin/sliders" */}
+            <Route
+                path="/admin/sliders"
+                element={
+                        <PrivateRoute>
+                            <SlidersIndex />
                         </PrivateRoute>
                 }
             />

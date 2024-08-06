@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from "react";
 
 //import layout
-import LayoutAdmin from "../../../layouts/Admin";
+import LayoutAdmin from "../../../layouts/admin";
 
 //import BASE URL API
 import Api from "../../../api";
