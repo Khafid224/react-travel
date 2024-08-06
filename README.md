@@ -134,7 +134,11 @@ J. Menampilkan data users
 8. edit & update data users
 ![image](https://github.com/user-attachments/assets/954235fe-c42e-47c3-b53c-b4db40e99cb8)
 
-K. Halaman web 
+//=======================================================================
+//WEB
+//=======================================================================
+-
+K. Halaman Home
 -
 1 menampilkan home
 ![image](https://github.com/user-attachments/assets/20cb65b7-f61e-4c7f-bcb0-e0a1e5aec9d4)
@@ -151,11 +155,19 @@ K. Halaman web
 5. menampilkan user di navbar saat otentikasi admin di home
 ![image](https://github.com/user-attachments/assets/894d05ea-49a4-47a9-9e98-873077846692)
 
-6. menampilkan route category show
+L. Halaman Category
+-
+1. menampilkan route category show
 ![image](https://github.com/user-attachments/assets/446f717f-df27-407e-8005-d1b60053f795)
 
-7. uji coba menampilkan data place berdasarkan category
+2. uji coba menampilkan data place berdasarkan category
 ![image](https://github.com/user-attachments/assets/612986f9-3027-4dd1-a69b-3044074b24d8)
+
+M. Halaman Places
+-
+1. menampilkan halaman konfigurasi place
+![image](https://github.com/user-attachments/assets/a6d213a5-3f53-431e-8e0f-fdefd4af1f37)
+
 
 
 
