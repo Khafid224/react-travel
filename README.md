@@ -82,6 +82,10 @@ I. Menampilkan Data Places
 8. uji coba map dan geocoder
    ![image](https://github.com/user-attachments/assets/5bd5b563-6935-49f5-bcc3-29a34a60cf23)
 
+9. menampilkan button edit & update places
+    ![image](https://github.com/user-attachments/assets/94306135-961a-47ba-8cb4-d28228b38376)
+
+
 
 
 
