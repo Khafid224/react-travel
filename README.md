@@ -140,7 +140,7 @@ J. Menampilkan data users
 -
 K. Halaman Home
 -
-1 menampilkan home
+1. menampilkan home
 ![image](https://github.com/user-attachments/assets/20cb65b7-f61e-4c7f-bcb0-e0a1e5aec9d4)
 
 2. menampilkan data category di navbar
